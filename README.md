@@ -4,5 +4,5 @@ Above are some of the projects I have done this summer. I am still experimenting
 
 ## Here are some of the resources I used to gain knowledge in this field.
 
-1. Professor Andrew Ng's [ML Class](ml-class.org)
+1. Professor Andrew Ng's [ML Class](https://www.ml-class.org)
 
